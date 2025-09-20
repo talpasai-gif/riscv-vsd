@@ -28,8 +28,8 @@ $ sudo apt-get install iverilog
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
-<img width="604" alt="gtkwave2" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/843a73bc-20ec-4417-bdc8-883caa6a299b">
+<img width="604" alt="gtkwave2" src="https://github.com/talpasai-gif/riscv-vsd/blob/main/WhatsApp%20Image%202025-09-20%20at%2023.52.08.jpeg">
 
-<img width="1008" alt="gtkwave1" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/1e0c0704-f9a8-4ce4-b364-55a1fb0fc9ca">
+<img width="1008" alt="gtkwave1" src="https://github.com/talpasai-gif/riscv-vsd/blob/main/WhatsApp%20Image%202025-09-20%20at%2023.52.47.jpeg">
 </details>
 
