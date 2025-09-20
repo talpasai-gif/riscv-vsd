@@ -21,7 +21,7 @@ $ sudo make install
 ```
 $ sudo apt-get install iverilog
 ```
-<img width="702" alt="iverilog" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/e660c9fc-0d6d-4ab7-b75f-9992133771ef">
+<img width="702" alt="iverilog" src="https://github.com/talpasai-gif/riscv-vsd/blob/main/WhatsApp%20Image%202025-09-20%20at%2023.47.35.jpeg">
 
 ## GTKWave
 ```
